@@ -6,7 +6,8 @@ const PATCH_TO_DIR = '/var/www/html/WebNotepad/webNotepad/';
 // Например 'files'
 $nameFolderWhithFiles = 'files';
 
-
+const LOGIN = 'user';
+const PASSWORD = '123';
 
 
 
