@@ -1,0 +1,47 @@
+.buttons{
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+    padding-left: 15px !important;
+}
+#input{
+    display: none;
+}
+.container{
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.65);
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.65);
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.65);
+}
+.margings{
+    margin-top: 15px;
+    /* padding-top:  */
+}
+.header{
+    /* height: 35px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.out{
+    height: 100%;
+}
+.labelInput{
+    margin-top: 10px;
+}
+.paddings-top{
+    padding-top: 15px;
+}
+#TextArea{
+    margin-top: 15px;
+    background-color: rgb(247, 247, 247);
+}
+.saveFile{
+    margin-left: auto;
+    margin-right: 0em;
+    margin-right: 15px;
+}
+.labelTextArea{
+    font-weight: bold;
+}
+.blockInput{
+    padding-left: 15px;
+    padding-top: 3px;
+}
